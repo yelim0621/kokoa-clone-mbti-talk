@@ -1,3 +1,5 @@
 # Kokoa Clone MBTI Update
 
-The concept is MBTI!
+This is a copy of kokoa-clone-mbti/
+Due to a problem of css folder,
+I made this copy for my assignment.
