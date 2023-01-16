@@ -1,0 +1,10 @@
+:root {
+    --purple: rgb(136, 97, 154);
+    --yellow: rgb(227, 174, 58);
+    --green: rgb(51, 165, 116);
+    --blue: rgb(66, 151, 180);
+    --gray: rgb(70, 70, 67);
+    --lightgray: rgb(246, 246, 246);
+    
+    --horizontal-space: 25px;
+}
