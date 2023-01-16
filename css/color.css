@@ -1,0 +1,34 @@
+.color__friends{
+    color: var(--purple);
+}
+.color__chats{
+    color: var(--blue);
+}
+.color__find{
+    color: var(--yellow);
+}
+.color__more{
+    color: var(--green);
+}
+.color__chat{
+    color: var(--lightgray);
+}
+
+.color__settings{
+    color: var(--gray);
+}
+.color__friends-nav{
+    background-color: var(--purple);
+}
+.color__chats-nav{
+    background-color: var(--blue);
+}
+.color__find-nav{
+    background-color: var(--yellow);
+}
+.color__more-nav{
+    background-color: var(--green);
+}
+.color__setting-nav{
+    background-color: var(--gray);
+}
